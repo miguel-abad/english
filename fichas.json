@@ -1,23 +1,23 @@
 [
     {
-        "grado": "0 recursos",
+        "grado": "recursos",
         "nombre": "Autores Ingles",
-        "ruta": "fichas/0 recursos/Autores Ingles.png"
+        "ruta": "fichas/recursos/Autores Ingles.png"
     },
     {
-        "grado": "0 recursos",
+        "grado": "recursos",
         "nombre": "Biografias en ingles",
-        "ruta": "fichas/0 recursos/Biografias en ingles.png"
+        "ruta": "fichas/recursos/Biografias en ingles.png"
     },
     {
-        "grado": "0 recursos",
+        "grado": "recursos",
         "nombre": "Caratula del curso",
-        "ruta": "fichas/0 recursos/Caratula del curso.JPG"
+        "ruta": "fichas/recursos/Caratula del curso.JPG"
     },
     {
-        "grado": "0 recursos",
+        "grado": "recursos",
         "nombre": "Festividades en ingles",
-        "ruta": "fichas/0 recursos/Festividades en ingles.png"
+        "ruta": "fichas/recursos/Festividades en ingles.png"
     },
     {
         "grado": "1P",
