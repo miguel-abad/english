@@ -1,5 +1,20 @@
 [
     {
+        "grado": "0 recursos",
+        "nombre": "Autores Ingles",
+        "ruta": "fichas/0 recursos/Autores Ingles.png"
+    },
+    {
+        "grado": "0 recursos",
+        "nombre": "Biografias en ingles",
+        "ruta": "fichas/0 recursos/Biografias en ingles.png"
+    },
+    {
+        "grado": "0 recursos",
+        "nombre": "Festividades en ingles",
+        "ruta": "fichas/0 recursos/Festividades en ingles.png"
+    },
+    {
         "grado": "1P",
         "nombre": "1P 4-20 A",
         "ruta": "fichas/1P/1P 4-20 A.jpeg"
@@ -133,6 +148,11 @@
         "grado": "1P",
         "nombre": "1p 8-balotario",
         "ruta": "fichas/1P/1p 8-balotario.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1p 8-ex-res",
+        "ruta": "fichas/1P/1p 8-ex-res.png"
     },
     {
         "grado": "1P",
@@ -516,6 +536,11 @@
     },
     {
         "grado": "4P",
+        "nombre": "4P 9-5",
+        "ruta": "fichas/4P/4P 9-5.png"
+    },
+    {
+        "grado": "4P",
         "nombre": "4p 8-balotario",
         "ruta": "fichas/4P/4p 8-balotario.png"
     },
@@ -636,6 +661,11 @@
     },
     {
         "grado": "5P",
+        "nombre": "5P 9-5",
+        "ruta": "fichas/5P/5P 9-5.png"
+    },
+    {
+        "grado": "5P",
         "nombre": "5p 7-Balotario",
         "ruta": "fichas/5P/5p 7-Balotario.png"
     },
@@ -643,6 +673,11 @@
         "grado": "5P",
         "nombre": "5p 8-balotario",
         "ruta": "fichas/5P/5p 8-balotario.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5p 8-ex-res",
+        "ruta": "fichas/5P/5p 8-ex-res.png"
     },
     {
         "grado": "5P",
@@ -766,6 +801,11 @@
     },
     {
         "grado": "6P",
+        "nombre": "6P 9-5",
+        "ruta": "fichas/6P/6P 9-5.png"
+    },
+    {
+        "grado": "6P",
         "nombre": "6p 8-balotario",
         "ruta": "fichas/6P/6p 8-balotario.png"
     },
@@ -886,6 +926,11 @@
     },
     {
         "grado": "S1",
+        "nombre": "S1 9-5",
+        "ruta": "fichas/S1/S1 9-5.png"
+    },
+    {
+        "grado": "S1",
         "nombre": "s1 8-balotario",
         "ruta": "fichas/S1/s1 8-balotario.png"
     },
@@ -981,6 +1026,11 @@
     },
     {
         "grado": "S2",
+        "nombre": "S2 9-5",
+        "ruta": "fichas/S2/S2 9-5.png"
+    },
+    {
+        "grado": "S2",
         "nombre": "s2 8-balotario",
         "ruta": "fichas/S2/s2 8-balotario.png"
     },
@@ -1071,6 +1121,11 @@
     },
     {
         "grado": "S3",
+        "nombre": "S3 9-5",
+        "ruta": "fichas/S3/S3 9-5.png"
+    },
+    {
+        "grado": "S3",
         "nombre": "s3 8-balotario",
         "ruta": "fichas/S3/s3 8-balotario.png"
     },
@@ -1151,6 +1206,11 @@
     },
     {
         "grado": "S4",
+        "nombre": "S4 9-5",
+        "ruta": "fichas/S4/S4 9-5.png"
+    },
+    {
+        "grado": "S4",
         "nombre": "s4 5-18",
         "ruta": "fichas/S4/s4 5-18.png"
     },
@@ -1166,6 +1226,11 @@
     },
     {
         "grado": "S5",
+        "nombre": "S5 5-15",
+        "ruta": "fichas/S5/S5 5-15.png"
+    },
+    {
+        "grado": "S5",
         "nombre": "S5 5-18",
         "ruta": "fichas/S5/S5 5-18.png"
     },
@@ -1173,6 +1238,11 @@
         "grado": "S5",
         "nombre": "S5 5-30",
         "ruta": "fichas/S5/S5 5-30.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 5-5",
+        "ruta": "fichas/S5/S5 5-5.png"
     },
     {
         "grado": "S5",
@@ -1248,5 +1318,15 @@
         "grado": "S5",
         "nombre": "S5 8-balotario",
         "ruta": "fichas/S5/S5 8-balotario.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 9-5",
+        "ruta": "fichas/S5/S5 9-5.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5-25 Advanced verb tenses",
+        "ruta": "fichas/S5/S5-25 Advanced verb tenses.png"
     }
 ]
