@@ -1388,5 +1388,25 @@
         "grado": "S5",
         "nombre": "S5-25 Advanced verb tenses",
         "ruta": "fichas/S5/S5-25 Advanced verb tenses.png"
+    },
+    {
+        "grado": "recursos",
+        "nombre": "Autores Ingles",
+        "ruta": "fichas/recursos/Autores Ingles.png"
+    },
+    {
+        "grado": "recursos",
+        "nombre": "Biografias en ingles",
+        "ruta": "fichas/recursos/Biografias en ingles.png"
+    },
+    {
+        "grado": "recursos",
+        "nombre": "Caratula del curso",
+        "ruta": "fichas/recursos/Caratula del curso.JPG"
+    },
+    {
+        "grado": "recursos",
+        "nombre": "Festividades en ingles",
+        "ruta": "fichas/recursos/Festividades en ingles.png"
     }
 ]
