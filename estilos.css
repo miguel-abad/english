@@ -65,6 +65,14 @@ section, .pd{
 .col-md-2{
   padding: 20px 0px 0px 20px;
 }
+.back-to-top{
+  border-radius: 100%;
+  float: right !important;
+}
+.der{
+  display: flex !important;
+  justify-content: flex-end !important; /* empuja el contenido a la derecha */
+}
 
 .center{
   position: absolute;   /* o fixed / relative según el caso */
@@ -74,157 +82,82 @@ section, .pd{
 }
 
 .panel-filtros {
-
     background: white;
-
     margin-top: 30px;
-
     padding: 20px;
-
     border-radius: 12px;
-
     display: flex;
-
     gap: 20px;
-
     align-items: end;
-
-    box-shadow:
-        0 3px 12px rgba(0,0,0,0.08);
-
+    box-shadow: 0 3px 12px rgba(0,0,0,0.08);
 }
-
 
 .campo {
-
     display: flex;
-
     flex-direction: column;
-
     gap: 7px;
-
 }
-
 
 .campo label {
-
     font-weight: bold;
-
     font-size: 14px;
-
 }
 
-
-select,
-input {
-
+select, input {
     padding: 12px;
-
     border: 1px solid #ccd3df;
-
     border-radius: 8px;
-
     font-size: 16px;
-
     background: white;
-
 }
-
 
 select {
-
     min-width: 180px;
-
 }
-
 
 .busqueda {
-
     flex: 1;
-
 }
-
 
 .busqueda input {
-
     width: 100%;
-
 }
-
-
-/* =====================================================
-   CONTADOR
-===================================================== */
 
 .contador {
-
     margin: 22px 0;
-
     color: #555;
-
     font-size: 15px;
-
 }
 
-
-/* =====================================================
-   GALERÍA
-===================================================== */
-
 .galeria {
-
     display: grid;
-
     grid-template-columns:
         repeat(
             auto-fill,
             minmax(220px, 1fr)
         );
-
     gap: 22px;
-
     padding-bottom: 50px;
 
 }
 
-
-/* =====================================================
-   TARJETA
-===================================================== */
-
 .tarjeta {
-
     background: white;
-
     border-radius: 12px;
-
     overflow: hidden;
-
-    box-shadow:
-        0 4px 12px rgba(0,0,0,0.10);
-
+    box-shadow: 0 4px 12px rgba(0,0,0,0.10);
     cursor: pointer;
-
     transition:
         transform 0.2s ease,
         box-shadow 0.2s ease;
 
 }
 
-
 .tarjeta:hover {
-
     transform: translateY(-5px);
-
     box-shadow:
         0 8px 20px rgba(0,0,0,0.16);
-
 }
-
-
-/* =====================================================
-   IMAGEN
-===================================================== */
 
 .tarjeta img {
 
