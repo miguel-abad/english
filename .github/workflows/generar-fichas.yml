@@ -95,7 +95,6 @@ jobs:
                           "ruta": ruta_web
                       })
 
-
           with open(
               "fichas.json",
               "w",
@@ -112,7 +111,6 @@ jobs:
           print(
               f"Se encontraron {len(catalogo)} fichas."
           )
-
 
       - name: Guardar fichas.json
         run: |

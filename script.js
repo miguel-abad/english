@@ -2,7 +2,6 @@ let todasLasFichas = [];
 let fichasFiltradas = [];
 let indiceActual = 0;
 
-
 const galeria = document.getElementById("galeria");
 const contador = document.getElementById("contador");
 const sinResultados = document.getElementById("sinResultados");
@@ -11,7 +10,6 @@ const buscar = document.getElementById("buscar");
 const visor = document.getElementById("visor");
 const imagenGrande = document.getElementById("imagenGrande");
 const nombreImagen = document.getElementById("nombreImagen");
-
 
 async function cargarFichas() {
     try {
