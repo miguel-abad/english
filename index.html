@@ -21,35 +21,37 @@
 
         <!-- Navbar 2 -->
         <nav class="navbar navbar-expand-lg navbar-dark prim py-4">
-            <div class="container"><a class="wt" href="https://miguel-abad.github.io/">Docente de Alemán e Informática</a></div>
+            <div class="container"><a class="wt" href="https://herr-abad.github.io/">Docente de Idiomas e Informática</a></div>
         </nav>
 
-        <main class="container">
-            <section class="panel-filtros">
-                <div class="campo">
-                    <label for="filtroGrado">Grado</label>
-                    <select id="filtroGrado">
-                        <option value="todos">Todos los grados</option>
-                        <option value="1P">1P</option>
-                        <option value="2P">2P</option>
-                        <option value="3P">3P</option>
-                        <option value="4P">4P</option>
-                        <option value="5P">5P</option>
-                        <option value="6P">6P</option>
-                        <option value="S1">S1</option>
-                        <option value="S2">S2</option>
-                        <option value="S3">S3</option>
-                        <option value="S4">S4</option>
-                        <option value="S5">S5</option>
-                    </select>
-                </div>
-                <div class="campo busqueda">
-                    <label for="buscar">Buscar</label>
-                    <input type="search" id="buscar" placeholder="Buscar ficha...">
-                </div>
-            </section>
+        <main class="contenedor">
+            <div class="container">
+                <section class="panel-filtros">
+                    <div class="campo">
+                        <label for="filtroGrado">Grado</label>
+                        <select id="filtroGrado">
+                            <option value="todos">Todos los grados</option>
+                            <option value="1P">1P</option>
+                            <option value="2P">2P</option>
+                            <option value="3P">3P</option>
+                            <option value="4P">4P</option>
+                            <option value="5P">5P</option>
+                            <option value="6P">6P</option>
+                            <option value="S1">S1</option>
+                            <option value="S2">S2</option>
+                            <option value="S3">S3</option>
+                            <option value="S4">S4</option>
+                            <option value="S5">S5</option>
+                        </select>
+                    </div>
+                    <div class="campo busqueda">
+                        <label for="buscar">Buscar</label>
+                        <input type="search" id="buscar" placeholder="Buscar ficha...">
+                    </div>
+                </section>
+                <div id="contador" class="contador">Cargando fichas... </div>
 
-            <div id="contador" class="contador">Cargando fichas... </div>
+            </div>
 
             <section id="galeria" class="galeria grs"> </section>
 
@@ -58,12 +60,11 @@
                 <h2>No se encontraron fichas</h2>
                 <p>Prueba con otro grado o término de búsqueda.</p>
             </div>
+
         </main>
 
-        <div id="visor"
-            class="visor">
+        <div id="visor" class="visor">
             <button id="cerrarVisor" class="cerrar" aria-label="Cerrar">×</button>
-
             <button id="anterior" class="flecha izquierda" aria-label="Imagen anterior"> ❮ </button>
             
             <div class="visor-contenido">
@@ -72,7 +73,6 @@
             </div>
             
             <button id="siguiente" class="flecha derecha" aria-label="Imagen siguiente"> ❯ </button>
-
         </div>
 
         <!-- Separador -->
