@@ -1,0 +1,553 @@
+/* =====================================================
+   CONFIGURACIÓN GENERAL
+===================================================== */
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+
+    margin: 0;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    background: #f3f6fb;
+
+    color: #222;
+
+}
+
+
+/* =====================================================
+   CONTENEDOR
+===================================================== */
+
+.contenedor {
+
+    width: 92%;
+
+    max-width: 1200px;
+
+    margin: auto;
+
+}
+
+
+/* =====================================================
+   ENCABEZADO
+===================================================== */
+
+.encabezado {
+
+    background: #0000AA;
+
+    color: white;
+
+    padding: 35px 0;
+
+    text-align: center;
+
+    box-shadow:
+        0 3px 10px rgba(0,0,0,0.15);
+
+}
+
+
+.encabezado h1 {
+
+    margin: 0;
+
+    font-size: 36px;
+
+}
+
+
+.encabezado p {
+
+    margin: 10px 0 0;
+
+    font-size: 17px;
+
+    opacity: 0.9;
+
+}
+
+
+/* =====================================================
+   FILTROS
+===================================================== */
+
+.panel-filtros {
+
+    background: white;
+
+    margin-top: 30px;
+
+    padding: 20px;
+
+    border-radius: 12px;
+
+    display: flex;
+
+    gap: 20px;
+
+    align-items: end;
+
+    box-shadow:
+        0 3px 12px rgba(0,0,0,0.08);
+
+}
+
+
+.campo {
+
+    display: flex;
+
+    flex-direction: column;
+
+    gap: 7px;
+
+}
+
+
+.campo label {
+
+    font-weight: bold;
+
+    font-size: 14px;
+
+}
+
+
+select,
+input {
+
+    padding: 12px;
+
+    border: 1px solid #ccd3df;
+
+    border-radius: 8px;
+
+    font-size: 16px;
+
+    background: white;
+
+}
+
+
+select {
+
+    min-width: 180px;
+
+}
+
+
+.busqueda {
+
+    flex: 1;
+
+}
+
+
+.busqueda input {
+
+    width: 100%;
+
+}
+
+
+/* =====================================================
+   CONTADOR
+===================================================== */
+
+.contador {
+
+    margin: 22px 0;
+
+    color: #555;
+
+    font-size: 15px;
+
+}
+
+
+/* =====================================================
+   GALERÍA
+===================================================== */
+
+.galeria {
+
+    display: grid;
+
+    grid-template-columns:
+        repeat(
+            auto-fill,
+            minmax(220px, 1fr)
+        );
+
+    gap: 22px;
+
+    padding-bottom: 50px;
+
+}
+
+
+/* =====================================================
+   TARJETA
+===================================================== */
+
+.tarjeta {
+
+    background: white;
+
+    border-radius: 12px;
+
+    overflow: hidden;
+
+    box-shadow:
+        0 4px 12px rgba(0,0,0,0.10);
+
+    cursor: pointer;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease;
+
+}
+
+
+.tarjeta:hover {
+
+    transform: translateY(-5px);
+
+    box-shadow:
+        0 8px 20px rgba(0,0,0,0.16);
+
+}
+
+
+/* =====================================================
+   IMAGEN
+===================================================== */
+
+.tarjeta img {
+
+    width: 100%;
+
+    height: 300px;
+
+    object-fit: contain;
+
+    display: block;
+
+    background: #eeeeee;
+
+}
+
+
+/* =====================================================
+   INFORMACIÓN DE LA TARJETA
+===================================================== */
+
+.info {
+
+    padding: 14px;
+
+}
+
+
+.grado {
+
+    display: inline-block;
+
+    background: #0000AA;
+
+    color: white;
+
+    padding: 5px 9px;
+
+    border-radius: 5px;
+
+    font-size: 12px;
+
+    font-weight: bold;
+
+    margin-bottom: 8px;
+
+}
+
+
+.nombre {
+
+    display: block;
+
+    font-weight: bold;
+
+    font-size: 15px;
+
+    word-break: break-word;
+
+}
+
+
+/* =====================================================
+   SIN RESULTADOS
+===================================================== */
+
+.sin-resultados {
+
+    text-align: center;
+
+    padding: 70px 20px;
+
+    color: #777;
+
+}
+
+
+.icono {
+
+    font-size: 50px;
+
+}
+
+
+.sin-resultados h2 {
+
+    margin-bottom: 5px;
+
+}
+
+
+/* =====================================================
+   VISOR
+===================================================== */
+
+.visor {
+
+    position: fixed;
+
+    inset: 0;
+
+    background:
+        rgba(0,0,0,0.92);
+
+    display: none;
+
+    align-items: center;
+
+    justify-content: center;
+
+    z-index: 9999;
+
+}
+
+
+.visor.activo {
+
+    display: flex;
+
+}
+
+
+/* =====================================================
+   IMAGEN GRANDE
+===================================================== */
+
+.visor-contenido {
+
+    max-width: 90vw;
+
+    max-height: 90vh;
+
+    text-align: center;
+
+}
+
+
+#imagenGrande {
+
+    max-width: 90vw;
+
+    max-height: 82vh;
+
+    object-fit: contain;
+
+    border-radius: 5px;
+
+}
+
+
+.nombre-imagen {
+
+    color: white;
+
+    margin-top: 12px;
+
+    font-size: 16px;
+
+}
+
+
+/* =====================================================
+   BOTÓN CERRAR
+===================================================== */
+
+.cerrar {
+
+    position: fixed;
+
+    top: 15px;
+
+    right: 20px;
+
+    width: 50px;
+
+    height: 50px;
+
+    border: none;
+
+    border-radius: 50%;
+
+    background: rgba(255,255,255,0.15);
+
+    color: white;
+
+    font-size: 35px;
+
+    cursor: pointer;
+
+    z-index: 10001;
+
+}
+
+
+.cerrar:hover {
+
+    background: rgba(255,255,255,0.30);
+
+}
+
+
+/* =====================================================
+   FLECHAS
+===================================================== */
+
+.flecha {
+
+    position: fixed;
+
+    top: 50%;
+
+    transform: translateY(-50%);
+
+    width: 55px;
+
+    height: 75px;
+
+    border: none;
+
+    background:
+        rgba(255,255,255,0.12);
+
+    color: white;
+
+    font-size: 30px;
+
+    cursor: pointer;
+
+}
+
+
+.flecha:hover {
+
+    background:
+        rgba(255,255,255,0.25);
+
+}
+
+
+.izquierda {
+
+    left: 15px;
+
+}
+
+
+.derecha {
+
+    right: 15px;
+
+}
+
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 700px) {
+
+    .encabezado h1 {
+
+        font-size: 28px;
+
+    }
+
+
+    .panel-filtros {
+
+        flex-direction: column;
+
+        align-items: stretch;
+
+    }
+
+
+    select {
+
+        width: 100%;
+
+    }
+
+
+    .galeria {
+
+        grid-template-columns:
+            repeat(2, 1fr);
+
+        gap: 12px;
+
+    }
+
+
+    .tarjeta img {
+
+        height: 230px;
+
+    }
+
+
+    .flecha {
+
+        width: 42px;
+
+        height: 60px;
+
+        font-size: 22px;
+
+    }
+
+}
+
+
+@media (max-width: 450px) {
+
+    .galeria {
+
+        grid-template-columns: 1fr;
+
+    }
+
+}

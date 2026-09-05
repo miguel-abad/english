@@ -1,0 +1,27 @@
+[
+    {
+        "grado": "1p",
+        "nombre": "Animals",
+        "ruta": "fichas/1p/animals.jpg"
+    },
+    {
+        "grado": "1p",
+        "nombre": "Colors",
+        "ruta": "fichas/1p/colors.png"
+    },
+    {
+        "grado": "2p",
+        "nombre": "Family",
+        "ruta": "fichas/2p/family.jpg"
+    },
+    {
+        "grado": "3p",
+        "nombre": "Present Simple",
+        "ruta": "fichas/3p/present-simple.jpg"
+    },
+    {
+        "grado": "3p",
+        "nombre": "Present Continuous",
+        "ruta": "fichas/3p/present-continuous.jpg"
+    }
+]
