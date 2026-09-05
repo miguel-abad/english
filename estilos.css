@@ -1,83 +1,77 @@
-/* =====================================================
-   CONFIGURACIÓN GENERAL
-===================================================== */
+/* Configuracion Inicial */
 
-* {
-    box-sizing: border-box;
+p, h2, h3, h4, li, a{
+  font-family:helvetica-w01-light,helvetica-w02-light,sans-serif;
+  text-decoration: none;
+  margin:none;
+}
+h1{
+  font-weight: bold;
+}
+h2{
+  color:#0000aa;
+  font-weight: 700 !important;
+}
+h3{
+  color:#0281ff;
+  font-size:19px;
+  font-weight: 500 !important;
+}
+h4{
+  color:#00abad;
+  font-size:15px;
+  font-weight: 600 !important;
+}
+a, p{
+  color:#3d3d3d;
+}
+a:hover{
+  color:#00abad;
 }
 
-
-body {
-
-    margin: 0;
-
-    font-family: Arial, Helvetica, sans-serif;
-
-    background: #f3f6fb;
-
-    color: #222;
-
+.escudo{
+  float:left;
+  margin-right: 10px;
+  height: 50px;
 }
 
-
-/* =====================================================
-   CONTENEDOR
-===================================================== */
-
-.contenedor {
-
-    width: 92%;
-
-    max-width: 1200px;
-
-    margin: auto;
-
+.stronger{
+  background-color: #0000aa;
+  color:white;
+  font-weight: 600;
+}
+.prim, section{
+  background-color: #0000dd;
+}
+.grs{
+  background-color: rgb(220, 220, 200) !important;
+  height: -webkit-fill-available;
+}
+section, .pd{
+  padding: 50px;
+}
+.wt{
+  color:white !important;
+}
+.twt{
+  background: white;
+}
+.col-md-7{
+  padding: 80px;  
+}
+.col-md-4{
+  height: 35vh;
+}
+.col-md-2{
+  padding: 20px 0px 0px 20px;
 }
 
-
-/* =====================================================
-   ENCABEZADO
-===================================================== */
-
-.encabezado {
-
-    background: #0000AA;
-
-    color: white;
-
-    padding: 35px 0;
-
-    text-align: center;
-
-    box-shadow:
-        0 3px 10px rgba(0,0,0,0.15);
-
+.center{
+  position: absolute;   /* o fixed / relative según el caso */
+  z-index: 9999;
+  width: 90%;
+  margin-top:120px;
 }
-
-
-.encabezado h1 {
-
-    margin: 0;
-
-    font-size: 36px;
-
-}
-
-
-.encabezado p {
-
-    margin: 10px 0 0;
-
-    font-size: 17px;
-
-    opacity: 0.9;
-
-}
-
-
-/* =====================================================
-   FILTROS
-===================================================== */
 
 .panel-filtros {
 
