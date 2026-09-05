@@ -1,195 +1,70 @@
 <!DOCTYPE html>
 <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Fichas de Inglés</title>
+        <link rel="stylesheet" href="estilos.css">
+    </head>
+    <body>
 
-<head>
+        <header class="encabezado">
+            <div class="contenedor">
+                <h1>📚 Fichas de Inglés</h1>
+                <p>Biblioteca de fichas y materiales de clase</p>
+            </div>
+        </header>
 
-    <meta charset="UTF-8">
+        <main class="contenedor">
+            <section class="panel-filtros">
+                <div class="campo">
+                    <label for="filtroGrado">Grado</label>
+                    <select id="filtroGrado">
+                        <option value="todos">Todos los grados</option>
+                        <option value="1p">1P</option>
+                        <option value="2p">2P</option>
+                        <option value="3p">3P</option>
+                        <option value="4p">4P</option>
+                        <option value="5p">5P</option>
+                        <option value="6p">6P</option>
+                        <option value="s1">S1</option>
+                        <option value="s2">S2</option>
+                        <option value="s3">S3</option>
+                        <option value="s4">S4</option>
+                        <option value="s5">S5</option>
+                    </select>
+                </div>
+                <div class="campo busqueda">
+                    <label for="buscar">Buscar</label>
+                    <input type="search" id="buscar" placeholder="Buscar ficha...">
+                </div>
+            </section>
 
-    <meta name="viewport"
-          content="width=device-width, initial-scale=1.0">
+            <div id="contador" class="contador">Cargando fichas... </div>
 
-    <title>Fichas de Inglés</title>
+            <section id="galeria" class="galeria"> </section>
 
-    <link rel="stylesheet" href="estilos.css">
+            <div id="sinResultados" class="sin-resultados" style="display:none;">
+                <div class="icono">🔍</div>
+                <h2>No se encontraron fichas</h2>
+                <p>Prueba con otro grado o término de búsqueda.</p>
+            </div>
+        </main>
 
-</head>
+        <div id="visor"
+            class="visor">
+            <button id="cerrarVisor" class="cerrar" aria-label="Cerrar">×</button>
 
-<body>
-
-    <!-- ENCABEZADO -->
-
-    <header class="encabezado">
-
-        <div class="contenedor">
-
-            <h1>📚 Fichas de Inglés</h1>
-
-            <p>
-                Biblioteca de fichas y materiales de clase
-            </p>
+            <button id="anterior" class="flecha izquierda" aria-label="Imagen anterior"> ❮ </button>
+            
+            <div class="visor-contenido">
+                <img id="imagenGrande" src=""alt="">
+                <div id="nombreImagen" class="nombre-imagen"></div>
+            </div>
+            
+            <button id="siguiente" class="flecha derecha" aria-label="Imagen siguiente"> ❯ </button>
 
         </div>
-
-    </header>
-
-
-    <!-- CONTENIDO -->
-
-    <main class="contenedor">
-
-        <!-- FILTROS -->
-
-        <section class="panel-filtros">
-
-            <div class="campo">
-
-                <label for="filtroGrado">
-                    Grado
-                </label>
-
-                <select id="filtroGrado">
-
-                    <option value="todos">
-                        Todos los grados
-                    </option>
-
-                    <option value="1p">
-                        1P
-                    </option>
-
-                    <option value="2p">
-                        2P
-                    </option>
-
-                    <option value="3p">
-                        3P
-                    </option>
-
-                    <option value="4p">
-                        4P
-                    </option>
-
-                    <option value="5p">
-                        5P
-                    </option>
-
-                    <option value="6p">
-                        6P
-                    </option>
-
-                </select>
-
-            </div>
-
-
-            <div class="campo busqueda">
-
-                <label for="buscar">
-                    Buscar
-                </label>
-
-                <input
-                    type="search"
-                    id="buscar"
-                    placeholder="Buscar ficha..."
-                >
-
-            </div>
-
-        </section>
-
-
-        <!-- INFORMACIÓN -->
-
-        <div id="contador"
-             class="contador">
-
-            Cargando fichas...
-
-        </div>
-
-
-        <!-- GALERÍA -->
-
-        <section id="galeria"
-                 class="galeria">
-
-        </section>
-
-
-        <!-- MENSAJE SIN RESULTADOS -->
-
-        <div id="sinResultados"
-             class="sin-resultados"
-             style="display:none;">
-
-            <div class="icono">
-                🔍
-            </div>
-
-            <h2>
-                No se encontraron fichas
-            </h2>
-
-            <p>
-                Prueba con otro grado o término de búsqueda.
-            </p>
-
-        </div>
-
-    </main>
-
-
-    <!-- VISOR DE IMAGEN -->
-
-    <div id="visor"
-         class="visor">
-
-        <button id="cerrarVisor"
-                class="cerrar"
-                aria-label="Cerrar">
-
-            ×
-
-        </button>
-
-
-        <button id="anterior"
-                class="flecha izquierda"
-                aria-label="Imagen anterior">
-
-            ❮
-
-        </button>
-
-
-        <div class="visor-contenido">
-
-            <img id="imagenGrande"
-                 src=""
-                 alt="">
-
-            <div id="nombreImagen"
-                 class="nombre-imagen">
-
-            </div>
-
-        </div>
-
-
-        <button id="siguiente"
-                class="flecha derecha"
-                aria-label="Imagen siguiente">
-
-            ❯
-
-        </button>
-
-    </div>
-
-
-    <script src="script.js"></script>
-
-</body>
-
+        <script src="script.js"></script>
+    </body>
 </html>
