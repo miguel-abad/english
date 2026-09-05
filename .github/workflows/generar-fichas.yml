@@ -1,0 +1,131 @@
+name: Generar catálogo de fichas
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "fichas/**"
+      - ".github/workflows/generar-fichas.yml"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+
+  generar-catalogo:
+
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Generar fichas.json
+        shell: python
+        run: |
+
+          import json
+          import os
+
+          carpeta_principal = "fichas"
+
+          extensiones = {
+              ".jpg",
+              ".jpeg",
+              ".png",
+              ".webp",
+              ".gif",
+              ".bmp",
+              ".svg"
+          }
+
+          catalogo = []
+
+          if os.path.exists(carpeta_principal):
+
+              for grado in sorted(
+                  os.listdir(carpeta_principal)
+              ):
+
+                  ruta_grado = os.path.join(
+                      carpeta_principal,
+                      grado
+                  )
+
+                  if not os.path.isdir(ruta_grado):
+                      continue
+
+                  for archivo in sorted(
+                      os.listdir(ruta_grado)
+                  ):
+
+                      ruta_archivo = os.path.join(
+                          ruta_grado,
+                          archivo
+                      )
+
+                      if not os.path.isfile(
+                          ruta_archivo
+                      ):
+                          continue
+
+                      extension = os.path.splitext(
+                          archivo
+                      )[1].lower()
+
+                      if extension not in extensiones:
+                          continue
+
+                      nombre = os.path.splitext(
+                          archivo
+                      )[0]
+
+                      ruta_web = (
+                          ruta_archivo
+                          .replace("\\", "/")
+                      )
+
+                      catalogo.append({
+                          "grado": grado,
+                          "nombre": nombre,
+                          "ruta": ruta_web
+                      })
+
+
+          with open(
+              "fichas.json",
+              "w",
+              encoding="utf-8"
+          ) as archivo:
+
+              json.dump(
+                  catalogo,
+                  archivo,
+                  ensure_ascii=False,
+                  indent=4
+              )
+
+          print(
+              f"Se encontraron {len(catalogo)} fichas."
+          )
+
+
+      - name: Guardar fichas.json
+        run: |
+
+          git config user.name \
+            "github-actions[bot]"
+
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add fichas.json
+
+          git diff --cached --quiet || \
+            git commit -m "Actualizar catálogo de fichas"
+
+          git push
