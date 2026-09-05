@@ -1,23 +1,23 @@
 [
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Autores Ingles",
-        "ruta": "fichas/recursos/Autores Ingles.png"
+        "ruta": "fichas/RECURSOS/Autores Ingles.png"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Biografias en ingles",
-        "ruta": "fichas/recursos/Biografias en ingles.png"
+        "ruta": "fichas/RECURSOS/Biografias en ingles.png"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Caratula del curso",
-        "ruta": "fichas/recursos/Caratula del curso.JPG"
+        "ruta": "fichas/RECURSOS/Caratula del curso.JPG"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Festividades en ingles",
-        "ruta": "fichas/recursos/Festividades en ingles.png"
+        "ruta": "fichas/RECURSOS/Festividades en ingles.png"
     },
     {
         "grado": "1P",
@@ -1390,23 +1390,23 @@
         "ruta": "fichas/S5/S5-25 Advanced verb tenses.png"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Autores Ingles",
-        "ruta": "fichas/recursos/Autores Ingles.png"
+        "ruta": "fichas/RECURSOS/Autores Ingles.png"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Biografias en ingles",
-        "ruta": "fichas/recursos/Biografias en ingles.png"
+        "ruta": "fichas/RECURSOS/Biografias en ingles.png"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Caratula del curso",
-        "ruta": "fichas/recursos/Caratula del curso.JPG"
+        "ruta": "fichas/RECURSOS/Caratula del curso.JPG"
     },
     {
-        "grado": "recursos",
+        "grado": "RECURSOS",
         "nombre": "Festividades en ingles",
-        "ruta": "fichas/recursos/Festividades en ingles.png"
+        "ruta": "fichas/RECURSOS/Festividades en ingles.png"
     }
 ]
