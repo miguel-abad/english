@@ -1,31 +1,1252 @@
-<<<<<<< HEAD
 [
     {
-        "grado": "1p",
-        "nombre": "Animals",
-        "ruta": "fichas/1p/animals.jpg"
+        "grado": "1P",
+        "nombre": "1P 4-20 A",
+        "ruta": "fichas/1P/1P 4-20 A.jpeg"
     },
     {
-        "grado": "1p",
-        "nombre": "Colors",
-        "ruta": "fichas/1p/colors.png"
+        "grado": "1P",
+        "nombre": "1P 4-20 B",
+        "ruta": "fichas/1P/1P 4-20 B.jpeg"
     },
     {
-        "grado": "2p",
-        "nombre": "Family",
-        "ruta": "fichas/2p/family.jpg"
+        "grado": "1P",
+        "nombre": "1P 4-27 A",
+        "ruta": "fichas/1P/1P 4-27 A.jpeg"
     },
     {
-        "grado": "3p",
-        "nombre": "Present Simple",
-        "ruta": "fichas/3p/present-simple.jpg"
+        "grado": "1P",
+        "nombre": "1P 4-27 B",
+        "ruta": "fichas/1P/1P 4-27 B.jpeg"
     },
     {
-        "grado": "3p",
-        "nombre": "Present Continuous",
-        "ruta": "fichas/3p/present-continuous.jpg"
+        "grado": "1P",
+        "nombre": "1P 5-04",
+        "ruta": "fichas/1P/1P 5-04.jpg"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 5-11 A",
+        "ruta": "fichas/1P/1P 5-11 A.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 5-11 B",
+        "ruta": "fichas/1P/1P 5-11 B.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 5-24",
+        "ruta": "fichas/1P/1P 5-24.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 5-25",
+        "ruta": "fichas/1P/1P 5-25.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 5-EX",
+        "ruta": "fichas/1P/1P 5-EX.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 5-info",
+        "ruta": "fichas/1P/1P 5-info.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 6-15",
+        "ruta": "fichas/1P/1P 6-15.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 6-2",
+        "ruta": "fichas/1P/1P 6-2.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 6-20",
+        "ruta": "fichas/1P/1P 6-20.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 6-8",
+        "ruta": "fichas/1P/1P 6-8.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 6-Ex",
+        "ruta": "fichas/1P/1P 6-Ex.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 6-info",
+        "ruta": "fichas/1P/1P 6-info.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 7-17",
+        "ruta": "fichas/1P/1P 7-17.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 7-7",
+        "ruta": "fichas/1P/1P 7-7.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 7-balotario",
+        "ruta": "fichas/1P/1P 7-balotario.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 8-10",
+        "ruta": "fichas/1P/1P 8-10.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 8-15 A",
+        "ruta": "fichas/1P/1P 8-15 A.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 8-15 B",
+        "ruta": "fichas/1P/1P 8-15 B.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 8-22",
+        "ruta": "fichas/1P/1P 8-22.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 9-5",
+        "ruta": "fichas/1P/1P 9-5.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1P 9-6",
+        "ruta": "fichas/1P/1P 9-6.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1p 8-balotario",
+        "ruta": "fichas/1P/1p 8-balotario.png"
+    },
+    {
+        "grado": "1P",
+        "nombre": "1p 8-ex",
+        "ruta": "fichas/1P/1p 8-ex.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 4-20",
+        "ruta": "fichas/2P/2P 4-20.jpeg"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 4-27",
+        "ruta": "fichas/2P/2P 4-27.jpeg"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 5-04",
+        "ruta": "fichas/2P/2P 5-04.jpg"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 5-11",
+        "ruta": "fichas/2P/2P 5-11.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 5-18",
+        "ruta": "fichas/2P/2P 5-18.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 5-30",
+        "ruta": "fichas/2P/2P 5-30.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 5-Ex",
+        "ruta": "fichas/2P/2P 5-Ex.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 5-info",
+        "ruta": "fichas/2P/2P 5-info.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 6-14",
+        "ruta": "fichas/2P/2P 6-14.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 6-2",
+        "ruta": "fichas/2P/2P 6-2.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 6-20",
+        "ruta": "fichas/2P/2P 6-20.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 6-8",
+        "ruta": "fichas/2P/2P 6-8.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 6-ex",
+        "ruta": "fichas/2P/2P 6-ex.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 6-info",
+        "ruta": "fichas/2P/2P 6-info.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 7-17",
+        "ruta": "fichas/2P/2P 7-17.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 7-Balotario",
+        "ruta": "fichas/2P/2P 7-Balotario.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 8-10",
+        "ruta": "fichas/2P/2P 8-10.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 8-15",
+        "ruta": "fichas/2P/2P 8-15.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 8-22",
+        "ruta": "fichas/2P/2P 8-22.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 9-5",
+        "ruta": "fichas/2P/2P 9-5.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2P 9-6",
+        "ruta": "fichas/2P/2P 9-6.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2p 5-28",
+        "ruta": "fichas/2P/2p 5-28.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2p 8-balotario",
+        "ruta": "fichas/2P/2p 8-balotario.png"
+    },
+    {
+        "grado": "2P",
+        "nombre": "2p 8-ex",
+        "ruta": "fichas/2P/2p 8-ex.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 4-20",
+        "ruta": "fichas/3P/3P 4-20.jpeg"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 4-27",
+        "ruta": "fichas/3P/3P 4-27.jpeg"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-04",
+        "ruta": "fichas/3P/3P 5-04.jpg"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-11",
+        "ruta": "fichas/3P/3P 5-11.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-18",
+        "ruta": "fichas/3P/3P 5-18.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-25",
+        "ruta": "fichas/3P/3P 5-25.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-30",
+        "ruta": "fichas/3P/3P 5-30.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-Ex",
+        "ruta": "fichas/3P/3P 5-Ex.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 5-info",
+        "ruta": "fichas/3P/3P 5-info.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-13",
+        "ruta": "fichas/3P/3P 6-13.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-14",
+        "ruta": "fichas/3P/3P 6-14.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-2",
+        "ruta": "fichas/3P/3P 6-2.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-20",
+        "ruta": "fichas/3P/3P 6-20.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-9",
+        "ruta": "fichas/3P/3P 6-9.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-ex",
+        "ruta": "fichas/3P/3P 6-ex.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 6-info",
+        "ruta": "fichas/3P/3P 6-info.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 7-14",
+        "ruta": "fichas/3P/3P 7-14.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 7-17",
+        "ruta": "fichas/3P/3P 7-17.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 7-7",
+        "ruta": "fichas/3P/3P 7-7.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 7-Balotario",
+        "ruta": "fichas/3P/3P 7-Balotario.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 8-10",
+        "ruta": "fichas/3P/3P 8-10.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 8-15",
+        "ruta": "fichas/3P/3P 8-15.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 8-21",
+        "ruta": "fichas/3P/3P 8-21.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 8-22",
+        "ruta": "fichas/3P/3P 8-22.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 9-5",
+        "ruta": "fichas/3P/3P 9-5.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3P 9-6",
+        "ruta": "fichas/3P/3P 9-6.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3p 8-balotario",
+        "ruta": "fichas/3P/3p 8-balotario.png"
+    },
+    {
+        "grado": "3P",
+        "nombre": "3p 8-ex",
+        "ruta": "fichas/3P/3p 8-ex.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 4-27",
+        "ruta": "fichas/4P/4P 4-27.jpeg"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 4-28",
+        "ruta": "fichas/4P/4P 4-28.jpeg"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-04",
+        "ruta": "fichas/4P/4P 5-04.jpg"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-11",
+        "ruta": "fichas/4P/4P 5-11.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-18",
+        "ruta": "fichas/4P/4P 5-18.jpg"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-25",
+        "ruta": "fichas/4P/4P 5-25.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-30",
+        "ruta": "fichas/4P/4P 5-30.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-EX",
+        "ruta": "fichas/4P/4P 5-EX.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 5-info",
+        "ruta": "fichas/4P/4P 5-info.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 6-15",
+        "ruta": "fichas/4P/4P 6-15.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 6-2",
+        "ruta": "fichas/4P/4P 6-2.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 6-20",
+        "ruta": "fichas/4P/4P 6-20.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 6-9",
+        "ruta": "fichas/4P/4P 6-9.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 6-ex",
+        "ruta": "fichas/4P/4P 6-ex.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 6-info",
+        "ruta": "fichas/4P/4P 6-info.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 7-14",
+        "ruta": "fichas/4P/4P 7-14.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 7-17",
+        "ruta": "fichas/4P/4P 7-17.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 7-7",
+        "ruta": "fichas/4P/4P 7-7.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 7-Balotario",
+        "ruta": "fichas/4P/4P 7-Balotario.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 8-10",
+        "ruta": "fichas/4P/4P 8-10.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 8-15",
+        "ruta": "fichas/4P/4P 8-15.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 8-21",
+        "ruta": "fichas/4P/4P 8-21.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4P 8-22",
+        "ruta": "fichas/4P/4P 8-22.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4p 8-balotario",
+        "ruta": "fichas/4P/4p 8-balotario.png"
+    },
+    {
+        "grado": "4P",
+        "nombre": "4p 8-ex",
+        "ruta": "fichas/4P/4p 8-ex.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 4-20",
+        "ruta": "fichas/5P/5P 4-20.jpeg"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 4-27",
+        "ruta": "fichas/5P/5P 4-27.jpeg"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-04",
+        "ruta": "fichas/5P/5P 5-04.jpg"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-11 A",
+        "ruta": "fichas/5P/5P 5-11 A.jpg"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-11 B",
+        "ruta": "fichas/5P/5P 5-11 B.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-25",
+        "ruta": "fichas/5P/5P 5-25.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-30",
+        "ruta": "fichas/5P/5P 5-30.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-EX",
+        "ruta": "fichas/5P/5P 5-EX.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 5-info",
+        "ruta": "fichas/5P/5P 5-info.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 6-02",
+        "ruta": "fichas/5P/5P 6-02.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 6-15",
+        "ruta": "fichas/5P/5P 6-15.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 6-20",
+        "ruta": "fichas/5P/5P 6-20.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 6-8",
+        "ruta": "fichas/5P/5P 6-8.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 6-Ex",
+        "ruta": "fichas/5P/5P 6-Ex.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 6-Info",
+        "ruta": "fichas/5P/5P 6-Info.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 7-14",
+        "ruta": "fichas/5P/5P 7-14.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 7-17",
+        "ruta": "fichas/5P/5P 7-17.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 7-7",
+        "ruta": "fichas/5P/5P 7-7.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 8-10",
+        "ruta": "fichas/5P/5P 8-10.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 8-15",
+        "ruta": "fichas/5P/5P 8-15.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 8-21",
+        "ruta": "fichas/5P/5P 8-21.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5P 8-22",
+        "ruta": "fichas/5P/5P 8-22.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5p 7-Balotario",
+        "ruta": "fichas/5P/5p 7-Balotario.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5p 8-balotario",
+        "ruta": "fichas/5P/5p 8-balotario.png"
+    },
+    {
+        "grado": "5P",
+        "nombre": "5p 8-ex",
+        "ruta": "fichas/5P/5p 8-ex.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 4-20",
+        "ruta": "fichas/6P/6P 4-20.jpeg"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 4-27",
+        "ruta": "fichas/6P/6P 4-27.jpeg"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-04",
+        "ruta": "fichas/6P/6P 5-04.jpg"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-11",
+        "ruta": "fichas/6P/6P 5-11.jpg"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-18",
+        "ruta": "fichas/6P/6P 5-18.jpg"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-25",
+        "ruta": "fichas/6P/6P 5-25.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-30",
+        "ruta": "fichas/6P/6P 5-30.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-Ex",
+        "ruta": "fichas/6P/6P 5-Ex.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 5-info",
+        "ruta": "fichas/6P/6P 5-info.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 6 - ex",
+        "ruta": "fichas/6P/6P 6 - ex.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 6-15",
+        "ruta": "fichas/6P/6P 6-15.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 6-2",
+        "ruta": "fichas/6P/6P 6-2.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 6-20",
+        "ruta": "fichas/6P/6P 6-20.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 6-9",
+        "ruta": "fichas/6P/6P 6-9.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 7-17",
+        "ruta": "fichas/6P/6P 7-17.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 7-7",
+        "ruta": "fichas/6P/6P 7-7.jpeg"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 7-7",
+        "ruta": "fichas/6P/6P 7-7.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 7-balotario",
+        "ruta": "fichas/6P/6P 7-balotario.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 8-10",
+        "ruta": "fichas/6P/6P 8-10.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 8-15",
+        "ruta": "fichas/6P/6P 8-15.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 8-21 A",
+        "ruta": "fichas/6P/6P 8-21 A.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 8-21 B",
+        "ruta": "fichas/6P/6P 8-21 B.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6P 8-22",
+        "ruta": "fichas/6P/6P 8-22.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6p 8-balotario",
+        "ruta": "fichas/6P/6p 8-balotario.png"
+    },
+    {
+        "grado": "6P",
+        "nombre": "6p 8-ex",
+        "ruta": "fichas/6P/6p 8-ex.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 5-18 A",
+        "ruta": "fichas/S1/S1 5-18 A.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 5-18 B",
+        "ruta": "fichas/S1/S1 5-18 B.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 5-30",
+        "ruta": "fichas/S1/S1 5-30.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 5-info",
+        "ruta": "fichas/S1/S1 5-info.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-16 B",
+        "ruta": "fichas/S1/S1 6-16 B.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-16",
+        "ruta": "fichas/S1/S1 6-16.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-2",
+        "ruta": "fichas/S1/S1 6-2.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-20",
+        "ruta": "fichas/S1/S1 6-20.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-9 A",
+        "ruta": "fichas/S1/S1 6-9 A.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-9 B",
+        "ruta": "fichas/S1/S1 6-9 B.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 6-9",
+        "ruta": "fichas/S1/S1 6-9.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 7-17",
+        "ruta": "fichas/S1/S1 7-17.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 7-7",
+        "ruta": "fichas/S1/S1 7-7.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 7-Balotario-A",
+        "ruta": "fichas/S1/S1 7-Balotario-A.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 7-Balotario-B",
+        "ruta": "fichas/S1/S1 7-Balotario-B.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 7-Balotario",
+        "ruta": "fichas/S1/S1 7-Balotario.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 8-10",
+        "ruta": "fichas/S1/S1 8-10.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 8-15",
+        "ruta": "fichas/S1/S1 8-15.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 8-21",
+        "ruta": "fichas/S1/S1 8-21.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 8-22 A",
+        "ruta": "fichas/S1/S1 8-22 A.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 8-22 B",
+        "ruta": "fichas/S1/S1 8-22 B.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "S1 8-Ex",
+        "ruta": "fichas/S1/S1 8-Ex.png"
+    },
+    {
+        "grado": "S1",
+        "nombre": "s1 8-balotario",
+        "ruta": "fichas/S1/s1 8-balotario.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 5-18",
+        "ruta": "fichas/S2/S2 5-18.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 5-30",
+        "ruta": "fichas/S2/S2 5-30.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 5-info",
+        "ruta": "fichas/S2/S2 5-info.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-16 B",
+        "ruta": "fichas/S2/S2 6-16 B.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-16",
+        "ruta": "fichas/S2/S2 6-16.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-2",
+        "ruta": "fichas/S2/S2 6-2.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-20",
+        "ruta": "fichas/S2/S2 6-20.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-9 A",
+        "ruta": "fichas/S2/S2 6-9 A.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-9 B",
+        "ruta": "fichas/S2/S2 6-9 B.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 6-9",
+        "ruta": "fichas/S2/S2 6-9.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 7-17",
+        "ruta": "fichas/S2/S2 7-17.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 7-7",
+        "ruta": "fichas/S2/S2 7-7.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 7-Balotario",
+        "ruta": "fichas/S2/S2 7-Balotario.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 8-10",
+        "ruta": "fichas/S2/S2 8-10.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 8-15",
+        "ruta": "fichas/S2/S2 8-15.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 8-21",
+        "ruta": "fichas/S2/S2 8-21.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 8-23",
+        "ruta": "fichas/S2/S2 8-23.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "S2 8-Ex",
+        "ruta": "fichas/S2/S2 8-Ex.png"
+    },
+    {
+        "grado": "S2",
+        "nombre": "s2 8-balotario",
+        "ruta": "fichas/S2/s2 8-balotario.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 5-18",
+        "ruta": "fichas/S3/S3 5-18.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 5-30",
+        "ruta": "fichas/S3/S3 5-30.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 5-info",
+        "ruta": "fichas/S3/S3 5-info.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-02",
+        "ruta": "fichas/S3/S3 6-02.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-16 B",
+        "ruta": "fichas/S3/S3 6-16 B.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-16",
+        "ruta": "fichas/S3/S3 6-16.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-25",
+        "ruta": "fichas/S3/S3 6-25.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-9 A",
+        "ruta": "fichas/S3/S3 6-9 A.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-9 B",
+        "ruta": "fichas/S3/S3 6-9 B.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 6-9",
+        "ruta": "fichas/S3/S3 6-9.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 7-17",
+        "ruta": "fichas/S3/S3 7-17.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 7-7",
+        "ruta": "fichas/S3/S3 7-7.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 7-Balotario",
+        "ruta": "fichas/S3/S3 7-Balotario.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 8-10",
+        "ruta": "fichas/S3/S3 8-10.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 8-15",
+        "ruta": "fichas/S3/S3 8-15.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 8-23",
+        "ruta": "fichas/S3/S3 8-23.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "S3 8-Ex",
+        "ruta": "fichas/S3/S3 8-Ex.png"
+    },
+    {
+        "grado": "S3",
+        "nombre": "s3 8-balotario",
+        "ruta": "fichas/S3/s3 8-balotario.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 5-24",
+        "ruta": "fichas/S4/S4 5-24.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 5-30",
+        "ruta": "fichas/S4/S4 5-30.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 5-info",
+        "ruta": "fichas/S4/S4 5-info.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 6-02",
+        "ruta": "fichas/S4/S4 6-02.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 6-16",
+        "ruta": "fichas/S4/S4 6-16.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 6-17",
+        "ruta": "fichas/S4/S4 6-17.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 6-25",
+        "ruta": "fichas/S4/S4 6-25.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 6-9",
+        "ruta": "fichas/S4/S4 6-9.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 7-17",
+        "ruta": "fichas/S4/S4 7-17.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 7-7",
+        "ruta": "fichas/S4/S4 7-7.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 7-Balotario",
+        "ruta": "fichas/S4/S4 7-Balotario.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 8-10",
+        "ruta": "fichas/S4/S4 8-10.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 8-15",
+        "ruta": "fichas/S4/S4 8-15.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 8-23",
+        "ruta": "fichas/S4/S4 8-23.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "S4 8-Ex",
+        "ruta": "fichas/S4/S4 8-Ex.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "s4 5-18",
+        "ruta": "fichas/S4/s4 5-18.png"
+    },
+    {
+        "grado": "S4",
+        "nombre": "s4 8-balotario",
+        "ruta": "fichas/S4/s4 8-balotario.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 5-11",
+        "ruta": "fichas/S5/S5 5-11.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 5-18",
+        "ruta": "fichas/S5/S5 5-18.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 5-30",
+        "ruta": "fichas/S5/S5 5-30.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 5-info",
+        "ruta": "fichas/S5/S5 5-info.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 6-02",
+        "ruta": "fichas/S5/S5 6-02.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 6-15",
+        "ruta": "fichas/S5/S5 6-15.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 6-16 B",
+        "ruta": "fichas/S5/S5 6-16 B.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 6-22",
+        "ruta": "fichas/S5/S5 6-22.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 6-9",
+        "ruta": "fichas/S5/S5 6-9.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 7-17",
+        "ruta": "fichas/S5/S5 7-17.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 7-7",
+        "ruta": "fichas/S5/S5 7-7.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 7-Balotario",
+        "ruta": "fichas/S5/S5 7-Balotario.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 8-10 A",
+        "ruta": "fichas/S5/S5 8-10 A.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 8-10 B",
+        "ruta": "fichas/S5/S5 8-10 B.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 8-15",
+        "ruta": "fichas/S5/S5 8-15.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 8-23",
+        "ruta": "fichas/S5/S5 8-23.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 8-Ex",
+        "ruta": "fichas/S5/S5 8-Ex.png"
+    },
+    {
+        "grado": "S5",
+        "nombre": "S5 8-balotario",
+        "ruta": "fichas/S5/S5 8-balotario.png"
     }
 ]
-=======
-[]
->>>>>>> 8ca7136a0d94e7ceed61123dd2802a5b5e55ce4f
