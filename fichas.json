@@ -181,6 +181,11 @@
     },
     {
         "grado": "2p",
+        "nombre": "2P 5-28",
+        "ruta": "fichas/2p/2P 5-28.png"
+    },
+    {
+        "grado": "2p",
         "nombre": "2P 5-30",
         "ruta": "fichas/2p/2P 5-30.png"
     },
@@ -258,11 +263,6 @@
         "grado": "2p",
         "nombre": "2P 9-6",
         "ruta": "fichas/2p/2P 9-6.png"
-    },
-    {
-        "grado": "2p",
-        "nombre": "2p 5-28",
-        "ruta": "fichas/2p/2p 5-28.png"
     },
     {
         "grado": "2p",
