@@ -256,6 +256,16 @@
     },
     {
         "grado": "2p",
+        "nombre": "2P 8-balotario",
+        "ruta": "fichas/2p/2P 8-balotario.png"
+    },
+    {
+        "grado": "2p",
+        "nombre": "2P 8-ex",
+        "ruta": "fichas/2p/2P 8-ex.png"
+    },
+    {
+        "grado": "2p",
         "nombre": "2P 9-5",
         "ruta": "fichas/2p/2P 9-5.png"
     },
@@ -263,16 +273,6 @@
         "grado": "2p",
         "nombre": "2P 9-6",
         "ruta": "fichas/2p/2P 9-6.png"
-    },
-    {
-        "grado": "2p",
-        "nombre": "2p 8-balotario",
-        "ruta": "fichas/2p/2p 8-balotario.png"
-    },
-    {
-        "grado": "2p",
-        "nombre": "2p 8-ex",
-        "ruta": "fichas/2p/2p 8-ex.png"
     },
     {
         "grado": "3p",
