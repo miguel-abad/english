@@ -830,24 +830,24 @@
         "ruta": "fichas/6p/6P 8-ex.png"
     },
     {
-        "grado": "RECURSOS",
+        "grado": "ADICIONALES",
         "nombre": "Autores Ingles",
-        "ruta": "fichas/RECURSOS/Autores Ingles.png"
+        "ruta": "fichas/adicionales/Autores Ingles.png"
     },
     {
-        "grado": "RECURSOS",
+        "grado": "ADICIONALES",
         "nombre": "Biografias en ingles",
-        "ruta": "fichas/RECURSOS/Biografias en ingles.png"
+        "ruta": "fichas/adicionales/Biografias en ingles.png"
     },
     {
-        "grado": "RECURSOS",
+        "grado": "ADICIONALES",
         "nombre": "Caratula del curso",
-        "ruta": "fichas/RECURSOS/Caratula del curso.JPG"
+        "ruta": "fichas/adicionales/Caratula del curso.JPG"
     },
     {
-        "grado": "RECURSOS",
+        "grado": "ADICIONALES",
         "nombre": "Festividades en ingles",
-        "ruta": "fichas/RECURSOS/Festividades en ingles.png"
+        "ruta": "fichas/adicionales/Festividades en ingles.png"
     },
     {
         "grado": "S1",
