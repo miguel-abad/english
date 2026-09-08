@@ -961,6 +961,11 @@
     },
     {
         "grado": "s1",
+        "nombre": "S1 8-Ex-res",
+        "ruta": "fichas/s1/S1 8-Ex-res.png"
+    },
+    {
+        "grado": "s1",
         "nombre": "S1 8-Ex",
         "ruta": "fichas/s1/S1 8-Ex.png"
     },
@@ -1066,6 +1071,11 @@
     },
     {
         "grado": "s2",
+        "nombre": "S2 8-Ex-res",
+        "ruta": "fichas/s2/S2 8-Ex-res.png"
+    },
+    {
+        "grado": "s2",
         "nombre": "S2 8-Ex",
         "ruta": "fichas/s2/S2 8-Ex.png"
     },
@@ -1163,6 +1173,11 @@
         "grado": "s3",
         "nombre": "S3 8-23",
         "ruta": "fichas/s3/S3 8-23.png"
+    },
+    {
+        "grado": "s3",
+        "nombre": "S3 8-Ex-res",
+        "ruta": "fichas/s3/S3 8-Ex-res.png"
     },
     {
         "grado": "s3",
@@ -1368,6 +1383,11 @@
         "grado": "s5",
         "nombre": "S5 8-23",
         "ruta": "fichas/s5/S5 8-23.png"
+    },
+    {
+        "grado": "s5",
+        "nombre": "S5 8-Ex-res",
+        "ruta": "fichas/s5/S5 8-Ex-res.png"
     },
     {
         "grado": "s5",
