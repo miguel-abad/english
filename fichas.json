@@ -172,17 +172,17 @@
     {
         "grado": "p1",
         "nombre": "1p 8-balotario",
-        "ruta": "fichas/p1/1p 8-balotario.png"
+        "ruta": "fichas/p1/1P 8-balotario.png"
     },
     {
         "grado": "p1",
         "nombre": "1p 8-ex-res",
-        "ruta": "fichas/p1/1p 8-ex-res.png"
+        "ruta": "fichas/p1/1P 8-ex-res.png"
     },
     {
         "grado": "p1",
         "nombre": "1p 8-ex",
-        "ruta": "fichas/p1/1p 8-ex.png"
+        "ruta": "fichas/p1/1P 8-ex.png"
     },
     {
         "grado": "p2",
