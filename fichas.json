@@ -156,6 +156,11 @@
     },
     {
         "grado": "p1",
+        "nombre": "1P 9-20",
+        "ruta": "fichas/p1/1P 9-20.png"
+    },
+    {
+        "grado": "p1",
         "nombre": "1P 9-5",
         "ruta": "fichas/p1/1P 9-5.png"
     },
@@ -182,17 +187,17 @@
     {
         "grado": "p1",
         "nombre": "1p 8-balotario",
-        "ruta": "fichas/p1/1P 8-balotario.png"
+        "ruta": "fichas/p1/1p 8-balotario.png"
     },
     {
         "grado": "p1",
         "nombre": "1p 8-ex-res",
-        "ruta": "fichas/p1/1P 8-ex-res.png"
+        "ruta": "fichas/p1/1p 8-ex-res.png"
     },
     {
         "grado": "p1",
         "nombre": "1p 8-ex",
-        "ruta": "fichas/p1/1P 8-ex.png"
+        "ruta": "fichas/p1/1p 8-ex.png"
     },
     {
         "grado": "p2",
@@ -318,6 +323,11 @@
         "grado": "p2",
         "nombre": "2P 9-19",
         "ruta": "fichas/p2/2P 9-19.png"
+    },
+    {
+        "grado": "p2",
+        "nombre": "2P 9-20",
+        "ruta": "fichas/p2/2P 9-20.png"
     },
     {
         "grado": "p2",
@@ -476,6 +486,11 @@
     },
     {
         "grado": "p3",
+        "nombre": "3P 9-20",
+        "ruta": "fichas/p3/3P 9-20.png"
+    },
+    {
+        "grado": "p3",
         "nombre": "3P 9-5",
         "ruta": "fichas/p3/3P 9-5.png"
     },
@@ -631,6 +646,11 @@
     },
     {
         "grado": "p4",
+        "nombre": "4P 9-20",
+        "ruta": "fichas/p4/4P 9-20.png"
+    },
+    {
+        "grado": "p4",
         "nombre": "4P 9-5",
         "ruta": "fichas/p4/4P 9-5.png"
     },
@@ -773,6 +793,11 @@
         "grado": "p5",
         "nombre": "5P 9-12",
         "ruta": "fichas/p5/5P 9-12.png"
+    },
+    {
+        "grado": "p5",
+        "nombre": "5P 9-20",
+        "ruta": "fichas/p5/5P 9-20.png"
     },
     {
         "grado": "p5",
@@ -931,6 +956,11 @@
     },
     {
         "grado": "p6",
+        "nombre": "6P 9-20",
+        "ruta": "fichas/p6/6P 9-20.png"
+    },
+    {
+        "grado": "p6",
         "nombre": "6P 9-5",
         "ruta": "fichas/p6/6P 9-5.png"
     },
@@ -938,6 +968,11 @@
         "grado": "p6",
         "nombre": "6P 9-8",
         "ruta": "fichas/p6/6P 9-8.png"
+    },
+    {
+        "grado": "p6",
+        "nombre": "6P 9-balotario",
+        "ruta": "fichas/p6/6P 9-balotario.png"
     },
     {
         "grado": "s1",
@@ -1061,6 +1096,11 @@
     },
     {
         "grado": "s1",
+        "nombre": "S1 9-14",
+        "ruta": "fichas/s1/S1 9-14.png"
+    },
+    {
+        "grado": "s1",
         "nombre": "S1 9-5",
         "ruta": "fichas/s1/S1 9-5.png"
     },
@@ -1171,6 +1211,11 @@
     },
     {
         "grado": "s2",
+        "nombre": "S2 9-14",
+        "ruta": "fichas/s2/S2 9-14.png"
+    },
+    {
+        "grado": "s2",
         "nombre": "S2 9-5",
         "ruta": "fichas/s2/S2 9-5.png"
     },
@@ -1276,6 +1321,16 @@
     },
     {
         "grado": "s3",
+        "nombre": "S3 9-14",
+        "ruta": "fichas/s3/S3 9-14.png"
+    },
+    {
+        "grado": "s3",
+        "nombre": "S3 9-21",
+        "ruta": "fichas/s3/S3 9-21.png"
+    },
+    {
+        "grado": "s3",
         "nombre": "S3 9-5",
         "ruta": "fichas/s3/S3 9-5.png"
     },
@@ -1363,6 +1418,16 @@
         "grado": "s4",
         "nombre": "S4 8-Ex",
         "ruta": "fichas/s4/S4 8-Ex.png"
+    },
+    {
+        "grado": "s4",
+        "nombre": "S4 9-14",
+        "ruta": "fichas/s4/S4 9-14.png"
+    },
+    {
+        "grado": "s4",
+        "nombre": "S4 9-21",
+        "ruta": "fichas/s4/S4 9-21.png"
     },
     {
         "grado": "s4",
@@ -1493,6 +1558,11 @@
         "grado": "s5",
         "nombre": "S5 9-12",
         "ruta": "fichas/s5/S5 9-12.png"
+    },
+    {
+        "grado": "s5",
+        "nombre": "S5 9-21",
+        "ruta": "fichas/s5/S5 9-21.png"
     },
     {
         "grado": "s5",
