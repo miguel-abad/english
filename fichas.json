@@ -16,6 +16,16 @@
     },
     {
         "grado": "adicionales",
+        "nombre": "Past simple verbs",
+        "ruta": "fichas/adicionales/Past simple verbs.png"
+    },
+    {
+        "grado": "adicionales",
+        "nombre": "Past simple",
+        "ruta": "fichas/adicionales/Past simple.png"
+    },
+    {
+        "grado": "adicionales",
         "nombre": "ingles autores",
         "ruta": "fichas/adicionales/ingles autores.png"
     },
@@ -23,6 +33,16 @@
         "grado": "adicionales",
         "nombre": "ingles biografias",
         "ruta": "fichas/adicionales/ingles biografias.png"
+    },
+    {
+        "grado": "adicionales",
+        "nombre": "ingles gramatica",
+        "ruta": "fichas/adicionales/ingles gramatica.png"
+    },
+    {
+        "grado": "adicionales",
+        "nombre": "ingles tiempos verbales",
+        "ruta": "fichas/adicionales/ingles tiempos verbales.png"
     },
     {
         "grado": "p1",
@@ -226,8 +246,33 @@
     },
     {
         "grado": "p1",
-        "nombre": "1P 9-Ex",
-        "ruta": "fichas/p1/1P 9-Ex.png"
+        "nombre": "1P 10-Ex",
+        "ruta": "fichas/p1/1P 10-Ex.png"
+    },
+    {
+        "grado": "p1",
+        "nombre": "1P 11-12",
+        "ruta": "fichas/p1/1P 11-12.png"
+    },
+    {
+        "grado": "p1",
+        "nombre": "1P 11-8",
+        "ruta": "fichas/p1/1P 11-8.png"
+    },
+    {
+        "grado": "p1",
+        "nombre": "1P 11-9",
+        "ruta": "fichas/p1/1P 11-9.png"
+    },
+    {
+        "grado": "p1",
+        "nombre": "1P 11-Ex A",
+        "ruta": "fichas/p1/1P 11-Ex A.png"
+    },
+    {
+        "grado": "p1",
+        "nombre": "1P 11-Ex",
+        "ruta": "fichas/p1/1P 11-Ex.png"
     },
     {
         "grado": "p2",
@@ -396,8 +441,23 @@
     },
     {
         "grado": "p2",
-        "nombre": "2P 9-Ex",
-        "ruta": "fichas/p2/2P 9-Ex.png"
+        "nombre": "2P 10-Ex",
+        "ruta": "fichas/p2/2P 10-Ex.png"
+    },
+    {
+        "grado": "p2",
+        "nombre": "2P 11-8",
+        "ruta": "fichas/p2/2P 11-8.png"
+    },
+    {
+        "grado": "p2",
+        "nombre": "2P 11-9",
+        "ruta": "fichas/p2/2P 11-9.png"
+    },
+    {
+        "grado": "p2",
+        "nombre": "2P 11-Ex",
+        "ruta": "fichas/p2/2P 11-Ex.png"
     },
     {
         "grado": "p3",
@@ -576,8 +636,28 @@
     },
     {
         "grado": "p3",
-        "nombre": "3P 9-Ex",
-        "ruta": "fichas/p3/3P 9-Ex.png"
+        "nombre": "3P 10-Ex",
+        "ruta": "fichas/p3/3P 10-Ex.png"
+    },
+    {
+        "grado": "p3",
+        "nombre": "3P 11-8",
+        "ruta": "fichas/p3/3P 11-8.png"
+    },
+    {
+        "grado": "p3",
+        "nombre": "3P 11-9",
+        "ruta": "fichas/p3/3P 11-9.png"
+    },
+    {
+        "grado": "p3",
+        "nombre": "3P 11-Ex",
+        "ruta": "fichas/p3/3P 11-Ex.png"
+    },
+    {
+        "grado": "p3",
+        "nombre": "3P 12-Ex",
+        "ruta": "fichas/p3/3P 12-Ex.png"
     },
     {
         "grado": "p4",
@@ -741,8 +821,28 @@
     },
     {
         "grado": "p4",
-        "nombre": "4P 9-Ex",
-        "ruta": "fichas/p4/4P 9-Ex.png"
+        "nombre": "4P 10-19",
+        "ruta": "fichas/p4/4P 10-19.png"
+    },
+    {
+        "grado": "p4",
+        "nombre": "4P 10-Ex",
+        "ruta": "fichas/p4/4P 10-Ex.png"
+    },
+    {
+        "grado": "p4",
+        "nombre": "4P 11-08",
+        "ruta": "fichas/p4/4P 11-08.png"
+    },
+    {
+        "grado": "p4",
+        "nombre": "4P 11-09",
+        "ruta": "fichas/p4/4P 11-09.png"
+    },
+    {
+        "grado": "p4",
+        "nombre": "4P 12-Ex",
+        "ruta": "fichas/p4/4P 12-Ex.png"
     },
     {
         "grado": "p5",
@@ -921,8 +1021,18 @@
     },
     {
         "grado": "p5",
-        "nombre": "5P 9-Ex",
-        "ruta": "fichas/p5/5P 9-Ex.png"
+        "nombre": "5P 10-Ex",
+        "ruta": "fichas/p5/5P 10-Ex.png"
+    },
+    {
+        "grado": "p5",
+        "nombre": "5P 11-Ex",
+        "ruta": "fichas/p5/5P 11-Ex.png"
+    },
+    {
+        "grado": "p5",
+        "nombre": "5P 12-Ex",
+        "ruta": "fichas/p5/5P 12-Ex.png"
     },
     {
         "grado": "p6",
@@ -1091,8 +1201,18 @@
     },
     {
         "grado": "p6",
-        "nombre": "6P 9-Ex",
-        "ruta": "fichas/p6/6P 9-Ex.png"
+        "nombre": "6P 10-Ex",
+        "ruta": "fichas/p6/6P 10-Ex.png"
+    },
+    {
+        "grado": "p6",
+        "nombre": "6P 11-Ex",
+        "ruta": "fichas/p6/6P 11-Ex.png"
+    },
+    {
+        "grado": "p6",
+        "nombre": "6P 12-Ex",
+        "ruta": "fichas/p6/6P 12-Ex.png"
     },
     {
         "grado": "s1",
@@ -1241,8 +1361,18 @@
     },
     {
         "grado": "s1",
-        "nombre": "S1 9-Ex",
-        "ruta": "fichas/s1/S1 9-Ex.png"
+        "nombre": "S1 10-Ex",
+        "ruta": "fichas/s1/S1 10-Ex.png"
+    },
+    {
+        "grado": "s1",
+        "nombre": "S1 11-Ex",
+        "ruta": "fichas/s1/S1 11-Ex.png"
+    },
+    {
+        "grado": "s1",
+        "nombre": "S1 12-Ex",
+        "ruta": "fichas/s1/S1 12-Ex.png"
     },
     {
         "grado": "s2",
@@ -1371,8 +1501,23 @@
     },
     {
         "grado": "s2",
-        "nombre": "S2 9-Ex",
-        "ruta": "fichas/s2/S2 9-Ex.png"
+        "nombre": "S2 10-Ex",
+        "ruta": "fichas/s2/S2 10-Ex.png"
+    },
+    {
+        "grado": "s2",
+        "nombre": "S2 11-15",
+        "ruta": "fichas/s2/S2 11-15.jpeg"
+    },
+    {
+        "grado": "s2",
+        "nombre": "S2 11-Ex",
+        "ruta": "fichas/s2/S2 11-Ex.png"
+    },
+    {
+        "grado": "s2",
+        "nombre": "S2 12-Ex",
+        "ruta": "fichas/s2/S2 12-Ex.png"
     },
     {
         "grado": "s3",
@@ -1501,8 +1646,23 @@
     },
     {
         "grado": "s3",
-        "nombre": "S3 9-Ex",
-        "ruta": "fichas/s3/S3 9-Ex.png"
+        "nombre": "S3 10-Ex",
+        "ruta": "fichas/s3/S3 10-Ex.png"
+    },
+    {
+        "grado": "s3",
+        "nombre": "S3 11-16",
+        "ruta": "fichas/s3/S3 11-16.jpeg"
+    },
+    {
+        "grado": "s3",
+        "nombre": "S3 11-Ex",
+        "ruta": "fichas/s3/S3 11-Ex.png"
+    },
+    {
+        "grado": "s3",
+        "nombre": "S3 12-Ex",
+        "ruta": "fichas/s3/S3 12-Ex.png"
     },
     {
         "grado": "s4",
@@ -1616,8 +1776,18 @@
     },
     {
         "grado": "s4",
-        "nombre": "S4 9-Ex",
-        "ruta": "fichas/s4/S4 9-Ex.png"
+        "nombre": "S4 10-Ex",
+        "ruta": "fichas/s4/S4 10-Ex.png"
+    },
+    {
+        "grado": "s4",
+        "nombre": "S4 11-Ex",
+        "ruta": "fichas/s4/S4 11-Ex.png"
+    },
+    {
+        "grado": "s4",
+        "nombre": "S4 12-Ex",
+        "ruta": "fichas/s4/S4 12-Ex.png"
     },
     {
         "grado": "s5",
@@ -1761,7 +1931,17 @@
     },
     {
         "grado": "s5",
-        "nombre": "S5 9-Ex",
-        "ruta": "fichas/s5/S5 9-Ex.png"
+        "nombre": "S5 10-Ex",
+        "ruta": "fichas/s5/S5 10-Ex.png"
+    },
+    {
+        "grado": "s5",
+        "nombre": "S5 11-Ex",
+        "ruta": "fichas/s5/S5 11-Ex.png"
+    },
+    {
+        "grado": "s5",
+        "nombre": "S5 12-Ex",
+        "ruta": "fichas/s5/S5 12-Ex.png"
     }
 ]
