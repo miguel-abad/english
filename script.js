@@ -49,7 +49,7 @@ function mostrarGaleria() {
             ficha => {
 
                 const coincideGrado =
-                    gradoSeleccionado === "todos" ||
+                    gradoSeleccionado === "adicionales" ||
                     ficha.grado === gradoSeleccionado;
 
 
